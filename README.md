@@ -42,5 +42,7 @@ This project is a **dynamic and interactive sales dashboard** built in Power BI.
 
 ## Project Structure
 
-
+<img width="1292" height="817" alt="Image" src="https://github.com/user-attachments/assets/29a368d4-828b-4a5f-834e-9dbd6837bffe" />
+<img width="1288" height="820" alt="Image" src="https://github.com/user-attachments/assets/84214829-ffc4-4aa2-b063-377f96e01add" />
+<img width="1297" height="820" alt="Image" src="https://github.com/user-attachments/assets/b84a69f3-e767-42c2-bf19-b85f78520d06" />
 
